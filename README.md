@@ -21,7 +21,7 @@ I assessed **four risks** in a hypothetical software development project, record
 
 ![Risk register showing the four identified risks, likelihood, impact and owners](evidence/risk-register-overview.png)
 
-The editable register includes each risk's description, rating, owner, status, notes, proposed mitigation, and contingency response: **[Risk register and matrix workbook](data/risk_register_and_matrix.xlsx)**.
+The editable register includes each risk's description, rating, owner, status, notes, proposed mitigation, and contingency response: **[Risk register and matrix workbook](risk_register_and_matrix.xlsx)**.
 
 ## Risk prioritization
 
@@ -56,7 +56,7 @@ The plan assigns oversight of overall risk management to the Project Manager, te
 
 - **[Risk assessment case study](Risk-Assessment-Case-Study.md)** — detailed decisions, treatment plan, and limitations, with evidence visuals.
 - **[Risk assessment report (PDF)](reports/01-risk-assessment-case-study.pdf)** — standalone report of the assessment.
-- **[Risk register and qualitative matrix (Excel)](data/risk_register_and_matrix.xlsx)** — editable record of ratings, owners, and proposed actions.
+- **[Risk register and qualitative matrix (Excel)](risk_register_and_matrix.xlsx)** — editable record of ratings, owners, and proposed actions.
 
 ## Assessment limitations
 
