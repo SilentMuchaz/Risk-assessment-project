@@ -63,6 +63,3 @@ The plan assigns oversight of overall risk management to the Project Manager, te
 This is a **hypothetical project**. The work demonstrates structured risk identification, qualitative assessment, ownership, and response planning. It does not establish that mitigations were executed, that monthly reviews occurred, or that project risks were reduced. The initial matrix draft used different risk descriptions and placements; the revised matrix is aligned with the recorded risk register.
 
 ---
-
-**Author:** Silent Mucharira  
-**Focus:** Risk assessment · Risk registers · Likelihood–impact analysis · Mitigation planning · Governance and risk management
