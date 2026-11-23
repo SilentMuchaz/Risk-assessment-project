@@ -55,7 +55,7 @@ The plan assigns oversight of overall risk management to the Project Manager, te
 ## Project deliverables
 
 - **[Risk assessment case study](Risk-Assessment-Case-Study.md)** — detailed decisions, treatment plan, and limitations, with evidence visuals.
-- **[Risk assessment report (PDF)](reports/01-risk-assessment-case-study.pdf)** — standalone report of the assessment.
+- **[Risk assessment report (PDF)](01-risk-assessment-case-study.pdf)** — standalone report of the assessment.
 - **[Risk register and qualitative matrix (Excel)](risk_register_and_matrix.xlsx)** — editable record of ratings, owners, and proposed actions.
 
 ## Assessment limitations
